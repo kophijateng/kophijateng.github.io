@@ -4,7 +4,8 @@ Tentang Lingkungan...
 
 |  No  |  Name  | Link  |
 |------|----------------|--------------|
-|  01  |   12.png     |[Lihat]()|	         
+|  01  |  ![alt text](https://github.com/kophijateng.github.io/[reponame]/blob/[branch]/12.png?raw=true)
+    |[Lihat]()|	         
 |  02  |        |[Lihat]()|
 |  03  | 	      |[Lihat]()|	 
 |  04  | 		    |[Lihat]()|	      
