@@ -4,8 +4,8 @@ Tentang Lingkungan...
 
 |  No  |  Name  | Link  |
 |------|----------------|--------------|
-|  01  |        |[Lihat Undangan]()|	         
-|  02  |        |[Lihat Undangan]()|
-|  03  | 	      |[Lihat Undangan]()|	 
-|  04  | 		    |[Lihat Undangan]()|	      
-|  05  | 			  |[Lihat Undangan]()|							      
+|  01  |        |[Lihat]()|	         
+|  02  |        |[Lihat]()|
+|  03  | 	      |[Lihat]()|	 
+|  04  | 		    |[Lihat]()|	      
+|  05  | 			  |[Lihat]()|							      
