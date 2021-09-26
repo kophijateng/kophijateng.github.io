@@ -4,7 +4,7 @@ Tentang Lingkungan...
 
 |  No  |  Name  | Link  |
 |------|----------------|--------------|
-|  01  |        |[Lihat]()|	         
+|  01  |   12.png     |[Lihat]()|	         
 |  02  |        |[Lihat]()|
 |  03  | 	      |[Lihat]()|	 
 |  04  | 		    |[Lihat]()|	      
