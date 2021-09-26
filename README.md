@@ -4,7 +4,7 @@ Tentang Lingkungan...
 
 |  No  |  Name  | Link  |
 |------|----------------|--------------|
-|  01  |   ![12](https://user-images.githubusercontent.com/82216865/134796611-63b2a85d-f2c1-4f51-a220-b86fcc37eb1c.png) |[Lihat]()|	         
+|  01  |  [5. KTP.pdf](https://github.com/kophijateng/kophijateng.github.io/files/7230867/5.KTP.pdf) |[Lihat]()|	         
 |  02  |        |[Lihat]()|
 |  03  | 	      |[Lihat]()|	 
 |  04  | 		    |[Lihat]()|	      
